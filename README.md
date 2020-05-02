@@ -1,2 +1,2 @@
 # Kakey Fon 
-# alpha or protype of a website 
+# alpha or protype of an website 
